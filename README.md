@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/skyworkai-mureka-mcp-badge.png)](https://mseep.ai/app/skyworkai-mureka-mcp)
+
 
 
 <div class="title-block" style="text-align: center;" align="center">
